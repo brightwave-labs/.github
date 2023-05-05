@@ -1,12 +1,15 @@
-## Hi there 👋
+# Welcome to BrightWave Labs 🧪
 
-<!--
+At brightwave labs, we 
 
-**Here are some ideas to get you started:**
+## How our tutorials are different from others?
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We follow the documentation system designed by [Divio](https://documentation.divio.com/introduction/) and categorize everything well. Below is an example:
+
+| **Property** | **Tutorials** | **How-to guides** | **Reference** | **Explanation** |
+|------------|----------|----------------|-----------------|----------|
+| oriented to  | learning | a goal | information | understanding |
+| must         | allow the newcomer to get started         | show how to solve a specific prolem               | describe the machinery                | explain         |
+| its form     | a lesson         | a series of steps               | dry description                | discursive explanation         |
+| analogy      |  teaching a kid how to cook        | a recipe in cookery book               | a reference encyclopedia article                | an article on culinary social history         |
+
