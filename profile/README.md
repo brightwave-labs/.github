@@ -1,5 +1,7 @@
 # Welcome to BrightWave Labs 🧪
 [![slack](https://img.shields.io/badge/Slack-BrightWaveLabs-brightgreen)](https://brightwavelabs.slack.com)
+[![Calendar](https://img.shields.io/badge/Calendly-Book%20Your%20Meeting-brightgreen)](https://calendly.com/brightwavelabs/30min?month=2023-05)
+
 
 <p align="center">
   <img src="../assets/circular_green_BWL_logo.png?raw=true" alt="Commited to a better tomorrow" width="200px" height="200px" />
