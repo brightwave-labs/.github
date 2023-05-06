@@ -1,6 +1,6 @@
 # Welcome to BrightWave Labs 🧪
 [![slack](https://img.shields.io/badge/Slack-BrightWaveLabs-brightgreen)](https://brightwavelabs.slack.com)
-[![Calendar](https://img.shields.io/badge/Calendly-Book%20Your%20Meeting-brightgreen)](https://calendly.com/brightwavelabs/30min?month=2023-05)
+[![Calendar](https://img.shields.io/badge/Calendly-Book%20Your%20Meeting-brightgreen)](https://calendly.com/brightwavelabs/connect-with-brightwave-labs)
 
 
 <p align="center">
