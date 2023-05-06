@@ -1,6 +1,10 @@
 # Welcome to BrightWave Labs 🧪
 [![slack](https://img.shields.io/badge/Slack-BrightWaveLabs-brightgreen)](https://brightwavelabs.slack.com)
 
+<p align="center">
+  <img src="../assets/Green BWL Logo.png?raw=true" alt="Commited to a better tomorrow" width="200px" height="200px" />
+</p>
+
 Welcome to BrightWave Labs - your go-to source for the latest code repositories of trending technology. We offer a wide range of code repositories covering various software technologies and tools, available for a minimal fee.
 
 At BrightWave Labs, we are committed to providing easy access to the latest software resources, which can help individuals and businesses reduce the time and cost associated with developing software from scratch. Our experienced professionals are dedicated to creating high-quality code repositories that cover the latest software trends and technologies, empowering our clients to stay up-to-date with the latest industry advancements.
