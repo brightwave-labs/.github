@@ -2,7 +2,7 @@
 [![slack](https://img.shields.io/badge/Slack-BrightWaveLabs-brightgreen)](https://brightwavelabs.slack.com)
 
 <p align="center">
-  <img src="../assets/Green BWL Logo.png?raw=true" alt="Commited to a better tomorrow" width="200px" height="200px" />
+  <img src="../assets/circular_green_BWL_logo.png?raw=true" alt="Commited to a better tomorrow" width="200px" height="200px" />
 </p>
 
 Welcome to BrightWave Labs - your go-to source for the latest code repositories of trending technology. We offer a wide range of code repositories covering various software technologies and tools, available for a minimal fee.
