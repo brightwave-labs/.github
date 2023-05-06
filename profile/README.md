@@ -12,7 +12,7 @@ Join our community of software enthusiasts, and discover how we can help you sta
 
 We follow the documentation system designed by [Divio](https://documentation.divio.com/introduction/) and categorize everything well. Below is an example:
 
-| **Property** | **Tutorials** | **How-to guides** | **Reference** | **Explanation** |
+|  | **Tutorials** | **How-to guides** | **Reference** | **Explanation** |
 |------------|----------|----------------|-----------------|----------|
 | oriented to  | learning | a goal | information | understanding |
 | must         | allow the newcomer to get started         | show how to solve a specific prolem               | describe the machinery                | explain         |
