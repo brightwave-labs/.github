@@ -1,4 +1,5 @@
 # Welcome to BrightWave Labs 🧪
+[![slack](https://img.shields.io/badge/Slack-BrightWaveLabs-brightgreen)](https://brightwavelabs.slack.com)
 
 Welcome to BrightWave Labs - your go-to source for the latest code repositories of trending technology. We offer a wide range of code repositories covering various software technologies and tools, available for a minimal fee.
 
